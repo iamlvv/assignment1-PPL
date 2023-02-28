@@ -1,0 +1,3 @@
+getStr: function auto() {
+                str[1_2] = ""::concatenate::foo("haizz"); 
+                }
